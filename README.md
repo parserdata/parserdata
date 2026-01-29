@@ -1,16 +1,108 @@
-## Hi there 👋
+# ParserData
 
-<!--
-**parserdata/parserdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Intelligent Document Processing for Financial Data**
 
-Here are some ideas to get you started:
+ParserData is a platform that turns financial documents into clean, structured datasets that can be directly used by analytics systems, databases, and business workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Customers upload or stream documents such as reports, statements, and invoices, and ParserData automatically extracts, normalizes, and validates the data into a consistent schema.
+
+---
+
+## What ParserData Does
+
+ParserData handles the full document processing pipeline:
+
+- **Ingestion**  
+  Upload files via UI or stream documents through an API
+
+- **Document Understanding**  
+  Identify document structure, tables, and relevant fields
+
+- **Extraction**  
+  Capture structured data from invoices, receipts, statements, and reports
+
+- **Normalization & Validation**  
+  Normalize values, validate formats, and enforce consistent schemas
+
+- **Delivery**  
+  Deliver clean structured outputs via API or export
+
+Supported output formats include **JSON, Excel, CSV, and XML**.
+
+---
+
+## Designed for Reliability at Scale
+
+ParserData is built for teams that currently rely on:
+
+- Manual data preparation
+- Spreadsheet-based workflows
+- Fragile custom scripts
+- One-off document parsing logic
+
+Instead, ParserData provides a **reliable, scalable, and schema-driven** way to convert financial documents into usable data that downstream systems can trust.
+
+---
+
+## Common Use Cases
+
+- Invoice and receipt processing
+- Bank and financial statement extraction
+- Financial reporting automation
+- Feeding data into analytics or BI systems
+- ETL pipelines for accounting and finance teams
+- Workflow automation via APIs and integrations
+
+---
+
+## API-First Platform
+
+ParserData is designed to integrate easily into modern systems:
+
+- REST API for document ingestion and extraction
+- Schema-based extraction for predictable outputs
+- Automation-friendly for tools like Python, n8n, Make, and custom pipelines
+- Suitable for batch and streaming workflows
+
+Example repositories with cURL, Python, and automation workflows are pinned below.
+
+---
+
+## Who It’s For
+
+ParserData is built for:
+
+- Finance and accounting teams
+- Data and analytics teams
+- Engineering teams supporting financial workflows
+- Companies processing large volumes of financial documents
+
+If your workflows depend on clean, structured financial data, ParserData removes the manual work required to get there.
+
+---
+
+## Philosophy
+
+ParserData focuses on **clarity, consistency, and correctness**.
+
+The goal is not just to extract text, but to deliver **usable, validated data** that fits directly into real-world financial systems and workflows.
+
+---
+
+## 🌍 Connect with ParserData
+
+<a href="https://www.linkedin.com/company/parserdata/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/parserdata" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="26" alt="X / Twitter" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/@parserdata" target="_blank">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="26" alt="YouTube" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/parserdata" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="26" alt="Facebook" />
+</a>
