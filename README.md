@@ -68,6 +68,23 @@ Example repositories with cURL, Python, and automation workflows are pinned belo
 
 ---
 
+## 🛠️ Technologies and Stack
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/react/61DAFB"        width="32" alt="React" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6"   width="32" alt="TypeScript" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/vite/646CFF"         width="32" alt="Vite" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/node.js/339933"      width="32" alt="Node.js" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E"     width="32" alt="Supabase" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1"   width="32" alt="PostgreSQL" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED"       width="32" alt="Docker" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/clerk/3E37FF"        width="32" alt="Clerk" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/paddle/6D1FD2"       width="32" alt="Paddle" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4"  width="32" alt="Google Cloud / Gemini APIs" />
+</p>
+
+---
+
 ## Who It’s For
 
 ParserData is built for:
