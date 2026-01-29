@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Once+you+automate,+you+never+go+back&center=true&size=24&pause=1500&color=10B981&width=900" />
+</p>
+
 # ParserData
 
 **Intelligent Document Processing for Financial Data**
