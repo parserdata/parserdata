@@ -91,18 +91,18 @@ The goal is not just to extract text, but to deliver **usable, validated data** 
 
 ## 🌍 Connect with ParserData
 
-<a href="https://www.linkedin.com/company/parserdata/" target="_blank">
+<a href="https://www.linkedin.com/company/parserdatacom/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="https://x.com/parserdata" target="_blank">
+<a href="https://x.com/Parserdatacom" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="26" alt="X / Twitter" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.youtube.com/@parserdata" target="_blank">
+<a href="https://www.youtube.com/@ParserData" target="_blank">
   <img src="https://cdn.simpleicons.org/youtube/FF0000" width="26" alt="YouTube" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.facebook.com/parserdata" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=61585243164505" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="26" alt="Facebook" />
 </a>
