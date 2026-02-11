@@ -58,6 +58,8 @@ Instead, ParserData provides a **reliable, scalable, and schema-driven** way to 
 - ETL pipelines for accounting and finance teams
 - Workflow automation via APIs and integrations
 
+<img align="center" src="automation.png" alt="automation" width="100%" />
+
 ---
 
 ## API-First Platform
