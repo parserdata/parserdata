@@ -15,7 +15,7 @@ Customers upload or stream documents such as reports, statements, and invoices, 
 ## What ParserData Does
 
 ParserData handles the full document processing pipeline:
-<img align="right" src="IDP.png" alt="IDP" width="50%" />
+<img align="right" src="Parserdata.gif" alt="IDP" width="50%" />
 
 - **Ingestion**  
   Upload files via UI or stream documents through an [API](https://parserdata.com/parserdata-api)
